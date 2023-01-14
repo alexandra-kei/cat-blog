@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600&family=Sofia+Sans+Extra+Condensed:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600&family=Sofia+Sans+Extra+Condensed:wght@600&family=Source+Sans+Pro&display=swap');
+
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: blanchedalmond;
+} 
+ 
+h1, p {
+    margin: 0;
+}
+
+.document {
+    width: 940px;
+    height: 276px;
+    background-color: white;
+    margin: 50px auto;  
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+    border:1px solid black;
+}
+
+.text1 {
+   margin-bottom: 20px;
+   font-family: 'Sofia Sans Extra Condensed', sans-serif;
+   font-size: 50px;
+}
+
+.text2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+.cat {
+    width: 940px;
+    margin: 0 auto;
+}
+
+
